@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /admin/
+Disallow: /cart/
+Disallow: /checkout/
+
+Crawl-delay: 1
+
+Sitemap: https://www.floresdelalma.com/sitemap.xml
